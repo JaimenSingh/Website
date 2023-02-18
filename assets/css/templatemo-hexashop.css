@@ -538,7 +538,7 @@ header
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 500px) {
   .header-area .main-nav .logo {
     color: #1e1e1e;
   }
